@@ -17,12 +17,8 @@ DEMO LINK:http://127.0.0.1:5500/codsoft/Calculator/index.html
 FEATURES
 
 Basic Operations: Add, subtract, multiply, and divide numbers effortlessly.
-Memory Functions: Save results to memory and recall them when needed.
-Scientific Functions: Access trigonometric functions, exponentiation, square root, logarithms, and factorials.
-Parentheses Support: Evaluate expressions with nested parentheses for more complex calculations.
-Calculation History: Keep track of past calculations within the same session.
+
 Responsive Design: Enjoy a seamless experience on various devices, including smartphones and tablets.
-Customization: Choose from pre-defined themes or customize the appearance to your liking.
 
 How to Use:
 Open the calculator in your web browser.
