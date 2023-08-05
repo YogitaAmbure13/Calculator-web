@@ -8,6 +8,7 @@ DESCRIPTION
 The Simple Web-Based Calculator is a user-friendly and easy-to-use application created with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division quickly and accurately.
 
 SCREENSHOT:
+
 ![123](https://github.com/YogitaAmbure13/Calculator-web/assets/140909421/fa5ce378-586a-4d7a-b7da-b7cb053528ed)
 ![456](https://github.com/YogitaAmbure13/Calculator-web/assets/140909421/85215398-6ad8-43ed-a92c-8709c7daba09)
 
