@@ -1,8 +1,8 @@
 # Calculator-web
 
-#TITLE:Calculator 
-Using HTML, CSS, JAVASCRIPT
-IDE:VS Code
+-TITLE:Calculator 
+--Using HTML, CSS, JAVASCRIPT
+---IDE:VS Code
 
 DESCRIPTION
 The Simple Web-Based Calculator is a user-friendly and easy-to-use application created with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division quickly and accurately.
