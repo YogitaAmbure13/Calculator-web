@@ -16,15 +16,15 @@ DEMO LINK:http://127.0.0.1:5500/codsoft/Calculator/index.html
 
 FEATURES
 
-Basic Operations: Add, subtract, multiply, and divide numbers effortlessly.
-
-Responsive Design: Enjoy a seamless experience on various devices, including smartphones and tablets.
+-Basic Operations: Add, subtract, multiply, and divide numbers effortlessly.
+-Responsive Design: Enjoy a seamless experience on various devices, including smartphones and tablets.
 
 How to Use:
-Open the calculator in your web browser.
-Enter numbers using the buttons or your keyboard.
-Click on the operation buttons to perform calculations.
-Clear the history and start fresh as required.
+
+-Open the calculator in your web browser.
+-Enter numbers using the buttons or your keyboard.
+-Click on the operation buttons to perform calculations.
+-Clear the history and start fresh as required.
 
 
 In this simplified description, the focus is on the calculator's user-friendly nature and ease of use. It aims to be accessible to a wider audience, including those without technical expertise. The language used is straightforward and easy to understand.
